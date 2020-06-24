@@ -1,0 +1,390 @@
+06/23 17:54:07.021 INFO/Controller: Initialized success
+06/23 17:54:16.090 INFO/Controller: Visit-button clicked
+06/23 17:57:48.792 INFO/Controller: Initialized success
+06/23 17:57:51.922 INFO/Controller: Visit-button clicked
+06/23 17:57:52.068 INFO/Controller: Visit:https://www.baidu.com/
+06/23 17:57:59.890 INFO/Controller: Visit:https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6&fenlei=256&rsv_pq=b82518660010e5d2&rsv_t=6e680G%2F%2F8TEHcA3QAqNVTKxl%2BANHlQoKiSr5Zs1YJo0oxdH2G60CFERP3vU&rqlang=cn&rsv_enter=1&rsv_dl=ib&rsv_sug3=8&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&inputT=1178&rsv_sug4=2692
+06/23 17:58:11.938 INFO/Controller: Visit:https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%BE%AE%E4%BF%A1&fenlei=256&oq=%25E6%25B7%25B1%25E5%259C%25B3%25E5%25A4%25A7%25E5%25AD%25A6&rsv_pq=b2762d01000ffb96&rsv_t=8501IBLB4iGPdSfut7%2FF6hbGTfEwk4dKCjvDwoBN250Guq%2FmnPUQwmdCgOk&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_btype=t&inputT=2088&rsv_sug3=17&rsv_sug1=7&rsv_sug7=100&rsv_sug4=2088
+06/23 17:58:15.281 INFO/Controller: Visit:https://www.baidu.com/link?url=JIuOVJuvEmcpHJMAEezSqOF2ySmq78rORyxUEjsFc4e&wd=&eqid=fa31485800114624000000035ef1d233
+06/23 17:58:15.379 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 17:58:16.583 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 17:58:18.353 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 17:58:20.584 INFO/Controller: Store-button clicked
+06/23 17:58:24.154 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 17:58:42.705 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 17:58:42.705 INFO/Controller: Back-button clicked
+06/23 17:59:24.511 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 17:59:25.657 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:06:12.338 INFO/Controller: Initialized success
+06/23 18:06:19.967 INFO/Controller: Visit-button clicked
+06/23 18:06:24.631 INFO/Controller: Visit-button clicked
+06/23 18:06:26.562 INFO/Controller: Visit-button clicked
+06/23 18:06:27.449 INFO/Controller: Refresh-button clicked
+06/23 18:06:30.965 INFO/Controller: Visit-button clicked
+06/23 18:06:32.081 INFO/Controller: Store-button clicked
+06/23 18:06:33.910 INFO/Controller: Visit:http://www.baidu.com/
+06/23 18:06:33.911 INFO/Controller: Visit:http://www.baidu.com/
+06/23 18:06:33.911 INFO/Controller: Visit:http://www.baidu.com/
+06/23 18:06:33.912 INFO/Controller: Visit:http://www.baidu.com/
+06/23 18:06:33.914 INFO/Controller: Visit-button clicked
+06/23 18:06:34.044 INFO/Controller: Visit:https://www.baidu.com/
+06/23 18:06:34.044 INFO/Controller: Visit:https://www.baidu.com/
+06/23 18:06:34.045 INFO/Controller: Visit:https://www.baidu.com/
+06/23 18:06:34.045 INFO/Controller: Visit:https://www.baidu.com/
+06/23 18:06:34.046 INFO/Controller: Visit:https://www.baidu.com/
+06/23 18:06:47.206 INFO/Controller: Initialized success
+06/23 18:06:51.313 INFO/Controller: Visit-button clicked
+06/23 18:06:51.496 INFO/Controller: Visit:https://www.bilibili.com/
+06/23 18:06:51.955 INFO/Controller: Visit:https://www.bilibili.com/?rt=V%2FymTlOu4ow%2Fy4xxNWPUZzhcb7C7z5TgUXZjGzEOBbU%3D
+06/23 18:06:54.089 INFO/Controller: Visit:https://www.bilibili.com/
+06/23 18:07:02.214 INFO/Controller: Visit:http://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1
+06/23 18:07:02.216 INFO/Controller: Search-button clicked
+06/23 18:07:04.299 INFO/Controller: Visit:http://www.baidu.com/link?url=C-fBh6th8h8QMkeByr31-ahfoSlI1vpkOiuMRP_0m4S&wd=&eqid=e2debe780003d949000000065ef1d446
+06/23 18:07:04.300 INFO/Controller: Visit:http://www.baidu.com/link?url=C-fBh6th8h8QMkeByr31-ahfoSlI1vpkOiuMRP_0m4S&wd=&eqid=e2debe780003d949000000065ef1d446
+06/23 18:07:04.372 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:07:04.373 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:07:05.249 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:07:05.250 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:07:06.168 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:07:06.169 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:07:07.803 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:07:07.804 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:07:07.905 INFO/Controller: Download:WeChatSetup(2).exe
+06/23 18:07:14.165 INFO/Controller: WeChatSetup(2).exe download success
+06/23 18:08:06.701 INFO/Controller: Initialized success
+06/23 18:08:12.801 INFO/Controller: Search-button clicked
+06/23 18:08:14.794 INFO/Controller: Visit:http://www.baidu.com/link?url=6u2D1u-JJfONb66bacpUPbMn4oDbQULxmDlLf9FVL47&wd=&eqid=827b43ca00074b8b000000065ef1d48d
+06/23 18:08:14.867 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:08:15.983 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:08:16.881 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:08:17.924 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:08:18.040 INFO/Controller: Download:WeChatSetup.exe
+06/23 18:08:24.052 INFO/Controller: WeChatSetup.exe download success
+06/23 18:09:35.820 INFO/Controller: Initialized success
+06/23 18:09:43.788 INFO/Controller: Search-button clicked
+06/23 18:09:45.630 INFO/Controller: Visit:http://www.baidu.com/link?url=ScAfmAF7KlDnp0yBHIoCdhl3dhuRqmB7h8nN7NFUmZm&wd=&eqid=d7ebb21300140346000000035ef1d4e7
+06/23 18:09:45.699 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:09:46.645 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:09:47.693 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:09:49.801 INFO/Controller: Store-button clicked
+06/23 18:09:52.078 INFO/Controller: Visit:http://www.pc.weixin.qq.com/
+06/23 18:09:52.080 INFO/Controller: Visit-button clicked
+06/23 18:09:53.462 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:09:53.462 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:09:53.586 INFO/Controller: Download:WeChatSetup(1).exe
+06/23 18:09:59.863 INFO/Controller: WeChatSetup(1).exe download success
+06/23 18:15:58.457 INFO/Controller: Initialized success
+06/23 18:16:02.320 INFO/Controller: Search-button clicked
+06/23 18:16:05.044 INFO/Controller: Visit:http://www.pc.weixin.qq.com/
+06/23 18:16:05.046 INFO/Controller: Visit-button clicked
+06/23 18:16:08.876 INFO/Controller: Visit:http://www.baidu.com/s?wd=a
+06/23 18:16:08.876 INFO/Controller: Visit:http://www.baidu.com/s?wd=a
+06/23 18:16:08.877 INFO/Controller: Refresh-button clicked
+06/23 18:16:17.628 INFO/Controller: Visit:http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=weixin&oq=a&rsv_pq=adea14be0012cdde&rsv_t=edcf%2B7BeuLBJVwjcPUVVMQqov9yY%2Fz3dMtuA1nzp63KKx8mL7xmVLTV4DsE&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=12&rsv_sug1=6&rsv_sug7=100&rsv_btype=t&inputT=5830&rsv_sug4=6980
+06/23 18:16:17.629 INFO/Controller: Visit:http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=weixin&oq=a&rsv_pq=adea14be0012cdde&rsv_t=edcf%2B7BeuLBJVwjcPUVVMQqov9yY%2Fz3dMtuA1nzp63KKx8mL7xmVLTV4DsE&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=12&rsv_sug1=6&rsv_sug7=100&rsv_btype=t&inputT=5830&rsv_sug4=6980
+06/23 18:16:19.081 INFO/Controller: Visit:http://www.baidu.com/link?url=oKo8ZHkwZy7WOVBevgNOy5NmefjgZ1BxHUxt61CIm87&wd=&eqid=e17097120013d561000000035ef1d671
+06/23 18:16:19.081 INFO/Controller: Visit:http://www.baidu.com/link?url=oKo8ZHkwZy7WOVBevgNOy5NmefjgZ1BxHUxt61CIm87&wd=&eqid=e17097120013d561000000035ef1d671
+06/23 18:16:19.155 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:16:19.157 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:16:20.398 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:16:20.399 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:16:21.400 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:16:21.401 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:16:22.441 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:16:22.441 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:16:22.551 INFO/Controller: Download:WeChatSetup(2).exe
+06/23 18:16:28.599 INFO/Controller: WeChatSetup(2).exe download success
+06/23 18:19:42.341 INFO/Controller: Initialized success
+06/23 18:19:46.365 INFO/Controller: Search-button clicked
+06/23 18:19:48.492 INFO/Controller: Visit:http://www.baidu.com/link?url=rXfQqhk90sUmGiqq4G-QFci-8CfgYP8DAG305GDXc3G&wd=&eqid=8ebcdb7a0004a021000000065ef1d742
+06/23 18:19:48.552 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:19:49.642 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:19:50.844 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:19:51.930 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:19:52.045 INFO/Controller: Download:WeChatSetup(3).exe
+06/23 18:20:05.005 INFO/Controller: WeChatSetup(3).exe download success
+06/23 18:21:16.834 INFO/Controller: Initialized success
+06/23 18:21:40.272 INFO/Controller: Search-button clicked
+06/23 18:21:41.986 INFO/Controller: Visit:http://www.baidu.com/link?url=KRedcuCfSC4GYenLBEvpv2FCfLWbP25a83KCqFRAjB_&wd=&eqid=a5a2a02000024cd7000000065ef1d7b4
+06/23 18:21:42.063 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:21:52.267 INFO/Controller: Visit:http://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1
+06/23 18:21:52.268 INFO/Controller: Back-button clicked
+06/23 18:22:29.239 INFO/Controller: Visit:http://www.baidu.com/link?url=KRedcuCfSC4GYenLBEvpv2FCfLWbP25a83KCqFRAjB_&wd=&eqid=a5a2a02000024cd7000000065ef1d7b4
+06/23 18:22:29.359 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:22:30.200 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:22:32.065 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:22:33.628 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:22:33.736 INFO/Controller: Download:WeChatSetup(4).exe
+06/23 18:22:39.445 INFO/Controller: WeChatSetup(4).exe download success
+06/23 18:24:15.979 INFO/Controller: Initialized success
+06/23 18:24:27.466 INFO/Controller: Search-button clicked
+06/23 18:24:29.667 INFO/Controller: Visit:http://www.baidu.com/link?url=fbZ0Lb__PBnMls4hU6c08H8CZjpxXcic1rWbs328yNy&wd=&eqid=8853e74400089fa3000000065ef1d85b
+06/23 18:24:29.750 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:24:31.905 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:24:33.846 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:24:39.118 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:24:39.261 INFO/Controller: Download:WeChatSetup(5).exe
+06/23 18:24:54.123 INFO/Controller: WeChatSetup(5).exe download success
+06/23 18:27:13.047 INFO/Controller: Initialized success
+06/23 18:27:19.218 INFO/Controller: Search-button clicked
+06/23 18:27:21.563 INFO/Controller: Visit:http://www.baidu.com/link?url=_g2kxFVJOeHMyKPAPpc2YnCw--B8GOwmyPJWO61UjZC&wd=&eqid=80e4213b00086820000000065ef1d907
+06/23 18:27:21.633 INFO/Controller: Visit:https://weixin.qq.com/
+06/23 18:27:22.625 INFO/Controller: Visit:https://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=download&t=weixin_download_list&loc=readtemplate,weixin,body,6
+06/23 18:27:23.594 INFO/Controller: Visit:https://pc.weixin.qq.com/
+06/23 18:27:24.979 INFO/Controller: Visit:https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+06/23 18:27:25.096 INFO/Controller: Download:WeChatSetup(6).exe
+06/23 18:27:29.033 INFO/Controller: WeChatSetup(6).exe download success
+06/23 18:31:37.356 INFO/Controller: Initialized success
+06/23 18:31:41.713 INFO/Controller: Initialized success
+06/23 18:31:41.804 INFO/Controller: Email-item clicked
+06/23 19:32:32.383 INFO/Controller: Initialized success
+06/23 19:32:53.679 INFO/Controller: Visit-button clicked
+06/23 19:37:48.091 INFO/Controller: Initialized success
+06/23 19:37:56.091 INFO/Controller: Visit-button clicked
+06/23 19:38:06.722 INFO/Controller: Visit:http://www.baidu.com/
+06/23 19:38:06.724 INFO/Controller: Visit-button clicked
+06/23 19:38:06.862 INFO/Controller: Visit:https://www.baidu.com/
+06/23 19:38:06.863 INFO/Controller: Visit:https://www.baidu.com/
+06/23 19:38:09.530 INFO/Controller: Visit:http://www.pc.weixin.qq.com/
+06/23 19:38:09.530 INFO/Controller: Visit:http://www.pc.weixin.qq.com/
+06/23 19:38:09.532 INFO/Controller: Visit-button clicked
+06/23 19:38:11.434 INFO/Controller: Store-button clicked
+06/23 19:38:21.666 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/23 19:38:21.667 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/23 19:38:21.667 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/23 19:38:21.670 INFO/Controller: Visit-button clicked
+06/23 19:38:31.815 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/23 19:38:31.816 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/23 19:38:31.817 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/23 19:38:31.818 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/23 19:38:31.820 WARN/Controller: Time out
+06/23 19:38:31.841 WARN/Controller: Time out
+06/23 19:38:31.865 WARN/Controller: Time out
+06/23 19:40:22.440 INFO/Controller: Initialized success
+06/23 20:03:49.095 INFO/Controller: Initialized success
+06/23 20:04:03.924 INFO/Controller: Visit-button clicked
+06/23 20:04:06.309 INFO/Controller: Visit:http://localhost:2020/helloworld.html
+06/23 22:00:54.993 INFO/Controller: Initialized success
+06/23 22:01:08.709 INFO/Controller: Visit-button clicked
+06/23 22:01:17.551 INFO/Controller: Visit:http://localhost/manager/html
+06/23 22:01:21.468 INFO/Controller: Visit:http://localhost/
+06/23 22:01:21.468 INFO/Controller: Back-button clicked
+06/23 22:01:22.982 INFO/Controller: Visit:http://localhost/manager/html
+06/23 22:01:42.416 INFO/Controller: Visit:http://localhost/
+06/23 22:01:42.416 INFO/Controller: Back-button clicked
+06/23 22:03:04.195 INFO/Controller: Visit:http://www.bilibili.com/
+06/23 22:03:04.196 INFO/Controller: Visit-button clicked
+06/23 22:03:04.366 INFO/Controller: Visit:https://www.bilibili.com/
+06/23 22:03:04.367 INFO/Controller: Visit:https://www.bilibili.com/
+06/23 22:03:04.915 INFO/Controller: Visit:https://www.bilibili.com/?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ8n%2FIkS4YBoD%2F%2BmB1mGv9X8%3D
+06/23 22:03:04.916 INFO/Controller: Visit:https://www.bilibili.com/?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ8n%2FIkS4YBoD%2F%2BmB1mGv9X8%3D
+06/23 22:03:13.549 INFO/Controller: Refresh-button clicked
+06/23 22:03:20.124 INFO/Controller: Visit:https://www.bilibili.com/?spm_id_from=333.851.b_7072696d61727950616765546162.1
+06/23 22:03:20.125 INFO/Controller: Visit:https://www.bilibili.com/?spm_id_from=333.851.b_7072696d61727950616765546162.1
+06/23 22:03:43.110 INFO/Controller: Visit:http://www.baidu.com/
+06/23 22:03:43.110 INFO/Controller: Visit:http://www.baidu.com/
+06/23 22:03:43.111 INFO/Controller: Visit-button clicked
+06/23 22:03:43.235 INFO/Controller: Visit:https://www.baidu.com/
+06/23 22:03:43.235 INFO/Controller: Visit:https://www.baidu.com/
+06/23 22:03:43.236 INFO/Controller: Visit:https://www.baidu.com/
+06/23 22:03:51.851 INFO/Controller: Visit:http://news.baidu.com/
+06/23 22:03:51.851 INFO/Controller: Visit:http://news.baidu.com/
+06/23 22:03:51.852 INFO/Controller: Visit:http://news.baidu.com/
+06/24 14:29:14.462 INFO/Controller: Initialized success
+06/24 14:29:25.191 INFO/Controller: Visit-button clicked
+06/24 14:29:34.480 INFO/Controller: Visit-button clicked
+06/24 14:29:57.623 INFO/Controller: Visit-button clicked
+06/24 14:30:07.685 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 14:30:07.686 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 14:30:07.687 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 14:30:07.689 WARN/Controller: Time out
+06/24 14:30:07.716 WARN/Controller: Time out
+06/24 14:31:21.740 INFO/Controller: Initialized success
+06/24 14:31:26.135 INFO/Controller: Visit-button clicked
+06/24 14:31:26.285 INFO/Controller: Visit:https://www.baidu.com/
+06/24 14:31:32.601 INFO/Controller: Visit:http://localhost:2020/
+06/24 14:31:32.603 INFO/Controller: Visit-button clicked
+06/24 14:31:42.647 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 14:31:42.648 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 14:31:42.650 WARN/Controller: Time out
+06/24 14:33:13.381 INFO/Controller: Initialized success
+06/24 14:33:22.918 INFO/Controller: Visit-button clicked
+06/24 14:33:25.258 INFO/Controller: Visit-button clicked
+06/24 14:34:03.391 INFO/Controller: Visit-button clicked
+06/24 14:34:08.214 INFO/Controller: Visit-button clicked
+06/24 14:34:09.621 INFO/Controller: Refresh-button clicked
+06/24 15:13:15.364 INFO/Controller: Initialized success
+06/24 15:13:18.971 INFO/Controller: Visit-button clicked
+06/24 15:13:19.165 INFO/Controller: Visit:https://www.szu.edu.cn/
+06/24 15:13:39.799 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:13:39.803 INFO/Controller: Visit-button clicked
+06/24 15:16:51.509 INFO/Controller: Initialized success
+06/24 15:16:57.483 INFO/Controller: Visit-button clicked
+06/24 15:17:15.342 INFO/Controller: Refresh-button clicked
+06/24 15:17:20.751 INFO/Controller: Visit-button clicked
+06/24 15:17:26.227 INFO/Controller: Visit:http://www.baidu.com/
+06/24 15:17:26.228 INFO/Controller: Visit:http://www.baidu.com/
+06/24 15:17:26.231 INFO/Controller: Visit-button clicked
+06/24 15:17:26.363 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:17:26.364 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:17:26.364 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:17:37.602 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/24 15:17:37.603 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/24 15:17:37.603 INFO/Controller: Visit:http://127.0.0.1:2020/
+06/24 15:17:37.606 INFO/Controller: Visit-button clicked
+06/24 15:17:47.465 INFO/Controller: Visit-button clicked
+06/24 15:18:53.751 INFO/Controller: Visit-button clicked
+06/24 15:19:01.393 INFO/Controller: Visit-button clicked
+06/24 15:19:01.540 INFO/Controller: Visit-button clicked
+06/24 15:19:01.683 INFO/Controller: Visit-button clicked
+06/24 15:19:03.798 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.799 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.799 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.800 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.904 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.904 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.905 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.905 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.906 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:19:03.908 WARN/Controller: Time out
+06/24 15:19:03.934 WARN/Controller: Time out
+06/24 15:19:03.957 WARN/Controller: Time out
+06/24 15:19:03.980 WARN/Controller: Time out
+06/24 15:19:04.001 WARN/Controller: Time out
+06/24 15:19:47.347 INFO/Controller: Initialized success
+06/24 15:19:54.978 INFO/Controller: Visit-button clicked
+06/24 15:21:01.680 INFO/Controller: Visit-button clicked
+06/24 15:21:02.963 INFO/Controller: Visit-button clicked
+06/24 15:21:11.734 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:21:11.735 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:21:11.736 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:21:11.738 WARN/Controller: Time out
+06/24 15:23:52.281 INFO/Controller: Initialized success
+06/24 15:23:59.817 INFO/Controller: Visit-button clicked
+06/24 15:24:03.308 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:24:04.773 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:24:04.774 INFO/Controller: Back-button clicked
+06/24 15:24:05.545 INFO/Controller: Visit:http://localhost:2020/jsp
+06/24 15:24:06.543 INFO/Controller: Back-button clicked
+06/24 15:24:07.561 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:24:09.196 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:24:09.197 INFO/Controller: Refresh-button clicked
+06/24 15:24:10.122 INFO/Controller: Back-button clicked
+06/24 15:24:11.742 INFO/Controller: Visit:http://localhost:2020/helloworld.html
+06/24 15:24:13.520 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:24:13.520 INFO/Controller: Back-button clicked
+06/24 15:24:55.394 INFO/Controller: Initialized success
+06/24 15:25:01.838 INFO/Controller: Visit-button clicked
+06/24 15:25:35.509 INFO/Controller: Visit-button clicked
+06/24 15:25:58.189 INFO/Controller: Initialized success
+06/24 15:26:06.778 INFO/Controller: Visit-button clicked
+06/24 15:26:58.704 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:27:00.844 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:27:00.845 INFO/Controller: Back-button clicked
+06/24 15:27:02.053 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:27:09.151 INFO/Controller: Back-button clicked
+06/24 15:27:10.295 INFO/Controller: Visit:http://localhost:2020/jsp
+06/24 15:27:11.458 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:27:12.172 INFO/Controller: Visit:http://localhost:2020/websocket/index.xhtml
+06/24 15:27:13.275 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 15:27:23.320 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:27:23.322 WARN/Controller: Time out
+06/24 15:27:56.840 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:27:56.841 INFO/Controller: Visit-button clicked
+06/24 15:28:43.638 INFO/Controller: Visit-button clicked
+06/24 15:28:45.117 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:45.117 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:45.118 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:48.783 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:48.784 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:48.784 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:48.786 INFO/Controller: Back-button clicked
+06/24 15:28:50.298 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:50.299 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:50.299 INFO/Controller: Visit:https://www.baidu.com/
+06/24 15:28:51.399 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:51.400 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:51.400 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:28:51.402 INFO/Controller: Back-button clicked
+06/24 15:29:33.503 INFO/Controller: Initialized success
+06/24 15:29:39.911 INFO/Controller: Visit-button clicked
+06/24 15:32:28.505 INFO/Controller: Refresh-button clicked
+06/24 15:32:41.724 INFO/Controller: Refresh-button clicked
+06/24 15:33:06.772 INFO/Controller: Refresh-button clicked
+06/24 15:57:03.538 INFO/Controller: Initialized success
+06/24 15:57:18.158 INFO/Controller: Visit-button clicked
+06/24 15:59:28.199 INFO/Controller: Refresh-button clicked
+06/24 15:59:32.821 INFO/Controller: Visit:http://localhost:2020/src/html/index.html
+06/24 15:59:37.162 INFO/Controller: Visit:http://localhost:2020/
+06/24 15:59:37.163 INFO/Controller: Refresh-button clicked
+06/24 15:59:38.900 INFO/Controller: Visit:http://localhost:2020/src/html/index.html
+06/24 15:59:48.953 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 15:59:48.954 WARN/Controller: Time out
+06/24 16:00:20.457 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:00:20.458 INFO/Controller: Back-button clicked
+06/24 16:00:21.540 INFO/Controller: Visit:http://localhost:2020/src/html/index.html
+06/24 16:00:31.562 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 16:00:31.563 WARN/Controller: Time out
+06/24 16:00:35.671 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:00:35.671 INFO/Controller: Back-button clicked
+06/24 16:03:47.349 INFO/Controller: Refresh-button clicked
+06/24 16:03:51.413 INFO/Controller: Visit:http://localhost:2020/index.html
+06/24 16:04:32.699 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 16:04:52.909 INFO/Controller: Visit:http://localhost:2020/index.html
+06/24 16:04:52.909 INFO/Controller: Back-button clicked
+06/24 16:04:56.289 INFO/Controller: Visit:http://localhost:2020/servlets
+06/24 16:05:06.312 INFO/Controller: Visit:file:///D:/IDEAProjects/CourseProject/src/html/timeout.html
+06/24 16:05:06.313 WARN/Controller: Time out
+06/24 16:20:05.259 INFO/Controller: Initialized success
+06/24 16:20:11.780 INFO/Controller: Visit-button clicked
+06/24 16:20:14.982 INFO/Controller: Store-button clicked
+06/24 16:20:20.377 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:20:23.568 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:20:23.568 INFO/Controller: Back-button clicked
+06/24 16:20:24.533 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:20:30.725 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:20:32.005 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:20:34.806 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:20:35.413 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:20:36.693 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:20:37.204 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:20:57.910 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:20:58.581 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:20:59.606 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:27:34.671 INFO/Controller: Initialized success
+06/24 16:27:42.478 INFO/Controller: Visit-button clicked
+06/24 16:27:44.525 INFO/Controller: Refresh-button clicked
+06/24 16:27:49.847 INFO/Controller: Visit-button clicked
+06/24 16:28:01.054 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:01.055 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:01.057 INFO/Controller: Visit-button clicked
+06/24 16:28:31.635 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:31.637 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:31.637 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:38.604 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:38.605 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:38.605 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:39.805 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:39.806 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:39.807 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:44.029 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:44.030 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:44.031 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:46.509 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:46.509 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:46.510 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:51.469 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:51.470 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:51.471 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:53.405 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:53.405 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:53.406 INFO/Controller: Visit:http://localhost:2020/get.html?
+06/24 16:28:54.284 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:54.284 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:54.285 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:55.164 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:55.165 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:55.165 INFO/Controller: Visit:http://localhost:2020/post.html
+06/24 16:28:57.100 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:57.101 INFO/Controller: Visit:http://localhost:2020/
+06/24 16:28:57.101 INFO/Controller: Visit:http://localhost:2020/
